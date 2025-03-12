@@ -1,4 +1,4 @@
-export const YOUTUBE_API_KEY = 'AIzaSyCWATfEI9puyybH2wZuL10ALphMYMcGtkk'; // Replace with actual API key
+export const YOUTUBE_API_KEY = 'AIzaSyBXSjAVukFznlXx7-cCSS5mnezGAhkgng8'; // Replace with actual API key
 
 export const CATEGORIES = [
   { id: 'cop', label: 'COP', tag: '#cop' },
